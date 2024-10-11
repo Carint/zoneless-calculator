@@ -44,6 +44,23 @@ En la elaboración de este proyecto se utilizaron las siguientes tecnologías:
 
 ## Instalación del proyecto
 
+### Prerrequisitos 
+
+Antes de instalar el proyecto, se debe de contar con los siguientes requisitos previos:
+
+1. `Node.js`: Es necesario tener instalado Node.js (versión 20.x o superior). Se puede descargar desde [nodejs.org](https://nodejs.org/).
+   
+2. `Angular CLI`: Para trabajar con el proyecto, se debe instalar la CLI de Angular globalmente en el sistema. Para hacerlo, se ejecuta el siguiente comando en la terminal:
+   ```bash
+   npm install -g @angular/cli
+   ```
+
+3. `Tailwind CSS`: El proyecto utiliza Tailwind CSS para los estilos. No es necesario instalar Tailwind manualmente, ya que está configurado dentro del proyecto, pero puede asegurarse de que su entorno esté listo para compilar estilos.
+
+4. `Git`: Si desea clonar el proyecto desde el repositorio, asegúrase de tener Git instalado. Puede descargarlo desde [git-scm.com](https://git-scm.com/).
+
+5. `Navegador moderno`: Se recomienda utilizar un navegador web moderno como Google Chrome, Firefox o Microsoft Edge para probar la aplicación.
+
 ### Servidor de desarrollo
 
 Ejecuta `ng serve` para iniciar un servidor de desarrollo. Navega a `http://localhost:4200/`. La aplicación se recargará automáticamente si cambias alguno de los archivos fuente.
