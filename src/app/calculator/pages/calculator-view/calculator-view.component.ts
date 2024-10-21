@@ -1,9 +1,10 @@
+import { CalculatorComponent } from '@/calculator/components/calculator/calculator.component';
 import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-calculator-view',
   standalone: true,
-  imports: [],
+  imports: [CalculatorComponent],
   templateUrl: './calculator-view.component.html'
 })
 export default class CalculatorViewComponent {
