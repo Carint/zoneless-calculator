@@ -17,7 +17,7 @@
   <img src="public/calculator_img.png" width="500" height="500"/>
 </p>
 
-Creación de una estructura HTML hecha en Tailwind, mostrando soluciones a problemas estructurales al recrear el diseño en componentes de <a href="https://angular.dev/" target="_blank">Angular</a>. Créditos a <a href="https://www.creative-tim.com/twcomponents/component/calculator-ui-2" target="_blank">Klerith</a> por el tema utilizado en el proyecto.
+Creación de una estructura HTML hecha en Tailwind, mostrando soluciones a problemas estructurales al recrear el diseño en componentes de [Angular](https://angular.dev/). Créditos a [Klerith](https://www.creative-tim.com/twcomponents/component/calculator-ui-2) por el tema utilizado en el proyecto.
 
 ### Temas de aprendizajes:
 * Tailwind
@@ -48,7 +48,7 @@ En la elaboración de este proyecto se utilizaron las siguientes tecnologías:
 
 Antes de instalar el proyecto, se debe de contar con los siguientes requisitos previos:
 
-1. `Node.js`: Es necesario tener instalado Node.js (versión 20.x o superior). Se puede descargar desde <a href="https://nodejs.org/" target="_blank">nodejs.org</a>.
+1. `Node.js`: Es necesario tener instalado Node.js (versión 20.x o superior). Se puede descargar desde [nodejs.org](https://nodejs.org/).
    
 2. `Angular CLI`: Para trabajar con el proyecto, se debe instalar la CLI de Angular globalmente en el sistema. Para hacerlo, se ejecuta el siguiente comando en la terminal:
    ```bash
@@ -57,7 +57,7 @@ Antes de instalar el proyecto, se debe de contar con los siguientes requisitos p
 
 3. `Tailwind CSS`: El proyecto utiliza Tailwind CSS para los estilos. No es necesario instalar Tailwind manualmente, ya que está configurado dentro del proyecto, pero puede asegurarse de que su entorno esté listo para compilar estilos.
 
-4. `Git`: Si desea clonar el proyecto desde el repositorio, asegúrase de tener Git instalado. Puede descargarlo desde <a href="https://git-scm.com/" target="_blank">git-scm.com</a>.
+4. `Git`: Si desea clonar el proyecto desde el repositorio, asegúrase de tener Git instalado. Puede descargarlo desde [git-scm.com](https://git-scm.com/).
 
 5. `Navegador moderno`: Se recomienda utilizar un navegador web moderno como Google Chrome, Firefox o Microsoft Edge para probar la aplicación.
 
